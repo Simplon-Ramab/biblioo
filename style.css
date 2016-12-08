@@ -1,0 +1,12 @@
+.medium.material-icons{
+position: relative;
+margin-top:-30vh;
+  color:white;
+  z-index: 1;
+}
+.button-collapse{
+  margin-top:-20vh;
+}
+.side-nav{
+  margin-top: 10vh;
+}
